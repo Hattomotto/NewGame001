@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\Altseed.dll
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\Altseed.XML
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\Altseed_core.dll
+d:\documents\visual studio 2015\Projects\acgame\acgame\obj\Debug\Actionshooting.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\game1.exe.config
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\game1.exe
+d:\documents\visual studio 2015\Projects\acgame\acgame\bin\Debug\game1.pdb
+d:\documents\visual studio 2015\Projects\acgame\acgame\obj\Debug\game1.exe
+d:\documents\visual studio 2015\Projects\acgame\acgame\obj\Debug\game1.pdb
